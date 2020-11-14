@@ -11,24 +11,18 @@ A single face detection web app with login features
   Smart-brain has a login page and a home page. The home page is made up of the insertion box, where you pasted your copied image url to be detected. Before you can use the app, you have to register or sign in of you have already register. smart-brain is secured to use credentials on because the passwords are hashed. Once you have registered, you can now copy any facial image url and paste it on the insertion box. After that, you can now click on the 'Detect' button to load the image and also detect the face on the image. Another feature of the app is that it keeps count of the number of images you've detected it's face right above the insertion box.
   
   ![scrnli_11_10_2020_5-51-31 PM](https://user-images.githubusercontent.com/65704793/99138701-caf1da00-2632-11eb-9a27-506603458a3c.png)
-  <br/>
-  <img src="">
-  <br/>
+ 
   
-  <br/>
-  <img src="">
-  <br/>
-  
-  <br/>
-  <img src="">
-  <br/>
-  
-  <br/>
-  <img src="https://scrn.li/uploads/2/28/287/2876/28764/287648/2876485a-5606-01f6-8900-0f65836b4a96/WE33JtBPo39C8O" alt="smart-brain">
-  <br/>
+  ![scrnli_11_10_2020_5-52-07 PM](https://user-images.githubusercontent.com/65704793/99138872-4607c000-2634-11eb-90ee-5dbb0b2fb686.png)
   
   
+  ![scrnli_11_14_2020_3-43-46 AM](https://user-images.githubusercontent.com/65704793/99138907-9717b400-2634-11eb-9f87-ba1d6ce90eb3.png)
   
+  
+  ![screenshot](https://user-images.githubusercontent.com/65704793/99139046-a9deb880-2635-11eb-9867-2d5157d9a41b.png)
+  
+  
+
 # For local installation :
 - clone the repository using the command ```$ git clone https://github.com/Martinezoms/smart-brain.git ```
 - go into the server directory on the terminal and run the following command:
