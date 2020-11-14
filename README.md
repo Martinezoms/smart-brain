@@ -10,7 +10,29 @@ A single face detection web app with login features
 # Functionality
   Smart-brain has a login page and a home page. The home page is made up of the insertion box, where you pasted your copied image url to be detected. Before you can use the app, you have to register or sign in of you have already register. smart-brain is secured to use credentials on because the passwords are hashed. Once you have registered, you can now copy any facial image url and paste it on the insertion box. After that, you can now click on the 'Detect' button to load the image and also detect the face on the image. Another feature of the app is that it keeps count of the number of images you've detected it's face right above the insertion box.
   
+  <br/>
+  <img src="">
+  <br/>
+  
+  <br/>
+  <img src="">
+  <br/>
+  
+  <br/>
+  <img src="">
+  <br/>
+  
+  <br/>
+  <img src="https://scrn.li/b5z9gzYb0398Tu" alt="smart-brain">
+  <br/>
+  
+  
+  
 # For local installation :
-- clone the repository using the command ```bash git clone https://github.com/Martinezoms/smart-brain.git ```
+- clone the repository using the command ```$ git clone https://github.com/Martinezoms/smart-brain.git ```
+- go into the server directory on the terminal and run the following command:
+```$ npm install``` to install dependencies
+```$ npm start```
+And now the app should be ready to use
 
   
