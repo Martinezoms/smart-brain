@@ -23,7 +23,7 @@ A single face detection web app with login features
   <br/>
   
   <br/>
-  <img src="https://scrn.li/b5z9gzYb0398Tu" alt="smart-brain">
+  <img src="https://scrn.li/uploads/2/28/287/2876/28764/287648/2876485a-5606-01f6-8900-0f65836b4a96/WE33JtBPo39C8O" alt="smart-brain">
   <br/>
   
   
