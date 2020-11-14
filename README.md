@@ -26,8 +26,8 @@ A single face detection web app with login features
 # For local installation :
 - clone the repository using the command ```$ git clone https://github.com/Martinezoms/smart-brain.git ```
 - go into the server directory on the terminal and run the following command:
-```$ npm install``` to install dependencies
-```$ npm start```
-And now the app should be ready to use
+-```$ npm install``` to install dependencies
+-```$ npm start```
+-And now the app should be ready to use
 
   
