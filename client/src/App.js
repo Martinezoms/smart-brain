@@ -76,6 +76,7 @@ class App extends Component {
   };
 
   onButtonSubmit = () => {
+    if (!value) return;
     this.setState({ imageUrl: this.state.input });
     fetch('https://pacific-castle-52408.herokuapp.com/imageUrl', {
       method: 'post',
